@@ -1,0 +1,1 @@
+Repo containing code and data to show error in `seaborn.factorplot` with `kind="point"` but not `kind="bar"`.
