@@ -1,6 +1,5 @@
 name: seaborn_factorplot_pointplot
 dependencies:
-- appnope=0.1.0=py27_0
 - cycler=0.9.0=py27_0
 - decorator=4.0.4=py27_0
 - freetype=2.5.5=0
